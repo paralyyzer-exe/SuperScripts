@@ -27,9 +27,8 @@ Welcome to the **Magi-Superscript Hub** — the ultimate, lightweight automation
 ### Installation
 1. Download the latest release from the **Releases** tab.
 2. Extract the `.zip` archive to a dedicated folder.
-3. Launch `MagiHub.exe` as Administrator.
-4. Select your desired game profile from the dashboard and hit **Inject**.
-
+3. Launch `MagiSuperScript Installer.exe` as Administrator.
+4. Install and Choose from a variety of games to **retrieve your utilities**
 ---
 
 ## 📊 Dashboard Preview
